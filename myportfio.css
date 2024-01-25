@@ -314,7 +314,7 @@ button:hover{
     grid-gap:8rem;
     margin-top:1.5rem;
     box-shadow: 12px 12px 12px grey;
-    background-image: url('contact.jpg');
+    background-image: url('./contact.jpg');
 }
 button{
     cursor:pointer;
